@@ -17,16 +17,7 @@ class _IntroScreenState extends State<IntroScreen> {
       "title": "Welcome to Chunne's Daily Planner",
       "subtitle": "Plan with clarity \n Execute with confidence",
       "icon": "task_alt_rounded",
-    },
-    {
-      "title": "Achieve Goals",
-      "subtitle": "Turn intentions into achievements one day at a time",
-      "icon": "check_circle_outline",
-    },
-    {
-      "title": "Productivity",
-      "subtitle": "Where focus meets productivity",
-      "icon": "rocket_launch",
+
     },
   ];
 
