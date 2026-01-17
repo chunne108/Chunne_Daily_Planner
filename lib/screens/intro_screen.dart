@@ -14,7 +14,7 @@ class _IntroScreenState extends State<IntroScreen> {
 
   final List<Map<String, String>> introPages = [
     {
-      "title": "Welcome to Chunne's Daily Planner",
+      "title": "Welcome to Chunne's 13 Multi Planner",
       "subtitle": "Plan with clarity \n Execute with confidence",
       "icon": "task_alt_rounded",
 
@@ -75,7 +75,7 @@ class _IntroScreenState extends State<IntroScreen> {
                         iconData = Icons.rocket_launch;
                         break;
                       default:
-                        iconData = Icons.task_alt_rounded;
+                        iconData = Icons.thirteen_mp_outlined;
                     }
 
                     return Column(

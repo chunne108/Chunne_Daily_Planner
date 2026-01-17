@@ -1,27 +1,22 @@
-# Chunne Daily Planner App (Flutter)
-
-A simple **Daily Planner mobile application** built with **Flutter** as a class project.  
-The app helps users organize daily tasks, track progress, and stay productive using a clean and user-friendly interface.
-
-
+# Chunne 13 MULTI PLANNER APP
+---
 ### 📱 Screenshots
 
-#### Introduction Screen
+#### Chunne Introduction Screen
 
+![](lib/screenshots/chunne_intro_page.png)
 
-![](lib/screenshots/chunne_intro_page_1.png) 
+#### TASK PAGE
 
-#### Main Screens
-| Tasks Page | Add / Edit Task 
+![](lib/screenshots/chunne_task_page.png)
+---
+#### ADD OR EDIT PAGE
+![](lib/screenshots/chunne_add_edit_task.png)
 
-| ![](lib/screenshots/chunne_task_page_screenshots.png) | ![](lib/screenshots/addoredit_task_page.png) |
+---
+#### SEARCH PAGE
 
-| Search Task                               |
-|-------------------------------------------|
-| ![](lib/screenshots/search_task_page.png) | 
-
-
-
+![](lib/screenshots/chunne_search_page.png)
 
 
 

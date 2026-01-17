@@ -118,13 +118,6 @@ class _TasksPageState extends State<TasksPage> {
       child: SingleChildScrollView(
         scrollDirection: Axis.horizontal,
         child: Row(
-          children: [
-            _dashboardCard("Today", "$todayCompleted/$todayTotal", _calculatePercentage(todayCompleted, todayTotal), Colors.red),
-            const SizedBox(width: 8),
-            _dashboardCard("This Week", "$weeklyCompleted/$weeklyTotal", _calculatePercentage(weeklyCompleted, weeklyTotal), Colors.yellow),
-            const SizedBox(width: 8),
-            _dashboardCard("This Month", "$monthlyCompleted/$monthlyTotal", _calculatePercentage(monthlyCompleted, monthlyTotal), Colors.green),
-          ],
         ),
       ),
     );
